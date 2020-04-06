@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/edsocial-demo/static/css/main.e74facf6.chunk.css",
+    "main.js": "/edsocial-demo/static/js/main.b029e6e3.chunk.js",
+    "main.js.map": "/edsocial-demo/static/js/main.b029e6e3.chunk.js.map",
+    "runtime-main.js": "/edsocial-demo/static/js/runtime-main.6e0498ca.js",
+    "runtime-main.js.map": "/edsocial-demo/static/js/runtime-main.6e0498ca.js.map",
+    "static/js/2.dead9897.chunk.js": "/edsocial-demo/static/js/2.dead9897.chunk.js",
+    "static/js/2.dead9897.chunk.js.map": "/edsocial-demo/static/js/2.dead9897.chunk.js.map",
+    "index.html": "/edsocial-demo/index.html",
+    "precache-manifest.8d34c5e3a06083fa82dcb985689545cd.js": "/edsocial-demo/precache-manifest.8d34c5e3a06083fa82dcb985689545cd.js",
+    "service-worker.js": "/edsocial-demo/service-worker.js",
+    "static/css/main.e74facf6.chunk.css.map": "/edsocial-demo/static/css/main.e74facf6.chunk.css.map",
+    "static/js/2.dead9897.chunk.js.LICENSE.txt": "/edsocial-demo/static/js/2.dead9897.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e0498ca.js",
+    "static/js/2.dead9897.chunk.js",
+    "static/css/main.e74facf6.chunk.css",
+    "static/js/main.b029e6e3.chunk.js"
+  ]
+}
